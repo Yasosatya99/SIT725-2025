@@ -81,7 +81,7 @@ app.get('/add', (req, res) => {
 });
 app.use(express.json()); // make sure this is at the top if not already
 
-// POST route to multiply two numbers
+// POST route to multiply two numbers,in thunderbolt
 app.post('/multiply', (req, res) => {
   const { num1, num2 } = req.body;
 
