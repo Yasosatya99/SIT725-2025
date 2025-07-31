@@ -1,0 +1,23 @@
+{
+  "name": "sit725-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yasosatya99/SIT725-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yasosatya99/SIT725-2025/issues"
+  },
+  "homepage": "https://github.com/Yasosatya99/SIT725-2025#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
