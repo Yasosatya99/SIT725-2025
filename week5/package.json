@@ -1,0 +1,31 @@
+{
+  "name": "sit725-2021-t2-prac3",
+  "version": "1.0.0",
+  "description": "sit 725 week 3 prac",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yasosatya99/SIT725-2025.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Materialize",
+    "HTML",
+    "JS",
+    "CSS"
+  ],
+  "author": "Yasosatya Chitturi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yasosatya99/SIT725-2025.git"
+  },
+  "homepage": "https://github.com/Yasosatya99/SIT725-2025.git",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.17.0"
+  }
+}
